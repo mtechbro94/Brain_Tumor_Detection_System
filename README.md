@@ -22,7 +22,7 @@ This project is a Flask-based web application that detects brain tumors from MRI
    - cd brain-tumor-detection
    - 
 2. **Kaggle MRI datasets:**
-   - https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri dataset
+   - https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 3. **Download Brain detection Model(model.h5)
    
    - https://www.kaggle.com/models/aaqibrashidmir/brain-tumor-detection-model
