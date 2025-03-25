@@ -1,0 +1,23 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore large model files
+models/*.h5
+
+# Ignore system files
+*.lnk
+desktop.ini
+
+
+# Ignore uploaded images
+uploads/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore system files (Mac & Windows)
+.DS_Store
+Thumbs.db
